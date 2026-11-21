@@ -30,6 +30,9 @@ pip install -r requirements.txt
 
 # Install Streamlit
 pip install streamlit
+
+# Install NumPy
+pip install numpy
 ```
 
 ## Run the Streamlit app
