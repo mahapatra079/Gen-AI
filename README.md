@@ -36,6 +36,9 @@ pip install numpy
 
 # Install pandas
 pip install pandas
+
+# Install Matplotlib
+pip install matplotlib
 ```
 
 ## Run the Streamlit app
